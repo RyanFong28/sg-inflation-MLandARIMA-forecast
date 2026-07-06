@@ -58,7 +58,10 @@ Hyperparameter Tuning: Conducted an extensive GridSearchCV to optimize tree dept
 The ML Edge Over ARIMA: Traditional univariate models (like ARIMA) aggressively revert to the historical mean during stable periods, assuming future inflation will smoothly follow past trends. Consequently, they fail to capture the sudden, non-linear macro shocks that define real-world economies. By contrast, the optimized XGBoost and Random Forest architectures successfully mapped distinct thresholds in exogenous variables—such as global supply chain disruptions (GSCPI) and oil price spikes. This allowed the machine learning models to anticipate sudden inflationary spikes and achieve significantly lower forecasting error during periods of peak volatility, proving that multivariate threshold-based models are vastly superior for macroeconomic shock forecasting.
 
 
-
+<br>
+<br>
+<br>
+<br>
 
 
 
