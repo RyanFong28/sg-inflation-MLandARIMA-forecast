@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-This project forecasts Singapore's MAS Core Inflation by bridging macroeconomic theory with modern machine learning architectures. It compares a traditional econometric model (ARIMA) against tuned tree-based models (Random Forest and XGBoost).
+This project forecasts Singapore's MAS Core Inflation by bridging macroeconomic theory with modern machine learning architectures. It compares a traditional econometric model (ARIMA) against tuned tree-based models (Random Forest and XGBoost) using python.
 
 <br>
 <br>
